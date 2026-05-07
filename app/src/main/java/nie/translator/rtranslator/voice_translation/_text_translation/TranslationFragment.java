@@ -1,3 +1,4 @@
+// Text Translation mode
 package nie.translator.rtranslator.voice_translation._text_translation;
 
 import static android.content.Context.CLIPBOARD_SERVICE;
