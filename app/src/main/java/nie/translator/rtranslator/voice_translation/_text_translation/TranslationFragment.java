@@ -1,3 +1,5 @@
+// Text Translation mode.
+// Allow user to translate text from one language to another.
 package nie.translator.rtranslator.voice_translation._text_translation;
 
 import static android.content.Context.CLIPBOARD_SERVICE;
